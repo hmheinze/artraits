@@ -54,9 +54,9 @@ a {
 h4 {
     font-family: 'PT Serif', serif;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 15px;
     vertical-align: top;
-    text-transform: uppercase;
+    -webkit-font-smoothing: antialiased;
     letter-spacing: 0.18em;
 }

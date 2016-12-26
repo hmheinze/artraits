@@ -45,3 +45,13 @@ img {
     border: none;
     outline: 0;
 }
+
+h4 {
+    font-family: 'PT Serif', serif;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 15px;
+    vertical-align: top;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+}

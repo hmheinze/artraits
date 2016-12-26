@@ -46,6 +46,11 @@ img {
     outline: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #111111;
+}
+
 h4 {
     font-family: 'PT Serif', serif;
     font-weight: normal;

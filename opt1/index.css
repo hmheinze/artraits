@@ -40,3 +40,8 @@ ol, ul{
     height: 100%;
     overflow: hidden;
 }
+
+img {
+    border: none;
+    outline: 0;
+}

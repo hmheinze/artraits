@@ -64,7 +64,8 @@ h4 {
 
 h4 {
     font-family: 'PT Serif', serif;
-    font-weight: 400i;
+    font-weight: 400;
+    font-style:italic;
     font-size: 14px;
     line-height: 15px;
     vertical-align: top;

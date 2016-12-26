@@ -1,0 +1,42 @@
+
+body {
+    font-family: 'PT Serif', serif;
+    color: #111111;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+#container{
+    width: 1260px;
+    margin: 100px auto 0 auto;
+    padding: 0;
+}
+
+#overview {
+	overflow:hidden;
+	vertical-align:baseline;
+}
+
+ol, ul{
+	list-style:none;
+}
+
+#overview li {
+    width: 390px;
+    padding: 15px;
+    float: left;
+   }
+
+#overview li .preview{
+	height: 260px;
+    overflow: hidden;
+    margin: 0 0 15px 0;
+    border: 1px #ccc solid;
+}
+
+#overview li .preview a {
+    display: block;
+    width: 102%;
+    height: 100%;
+    overflow: hidden;
+}

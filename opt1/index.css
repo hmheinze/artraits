@@ -45,7 +45,7 @@ img {
     border: none;
     outline: 0;
 }
-
+ 
 a {
     text-decoration: none;
     color: #111111;
@@ -53,7 +53,8 @@ a {
 
 h4 {
 	font-family: 'Libre Baskerville', serif;
-    font-weight: 700;
+    font-weight: 400;
+    font-color:black;
     font-size: 14px;
     font-style:italic;
     line-height: 15px;
@@ -65,7 +66,7 @@ h4 {
 
 
 h3 {
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
     font-weight: 400;
 
 /*    font-style:italic;*/

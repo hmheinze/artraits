@@ -58,17 +58,17 @@ h4 {
     line-height: 15px;
     vertical-align: top;
     -webkit-font-smoothing: antialiased;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.00em;
 }
 
 
 h3 {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
     font-style:italic;
     line-height:0px;
-    font-size: 14px;
+    font-size: 12px;
     vertical-align: top;
     -webkit-font-smoothing: antialiased;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.00em;
 }
